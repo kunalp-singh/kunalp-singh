@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kunal Pratap Singh 👋
 
-<!--
-**kunalp-singh/kunalp-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate building **production-grade full-stack and AI-driven applications**.  
+I focus on clean architecture, real-world problem solving, and strong fundamentals.
 
-Here are some ideas to get you started:
+## What I work on
+- End-to-end **web applications** (Next.js, React, Node, FastAPI)
+- **AI-powered systems** (ML, OpenCV, Generative AI)
+- Performance-oriented, maintainable code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+**Intern — Indian Space Lab (Remote)**  
+Worked on drone performance analysis and optimization for autonomous systems.
+
+## Tech Stack
+C++ · Python · JavaScript · TypeScript · SQL  
+Next.js · React · Node.js · FastAPI  
+Machine Learning · OpenCV · AWS · Linux · Git
+
+📌 **Pinned Projects** showcase my best work  
+📫 **Contact:** kunalps6266@gmail.com
