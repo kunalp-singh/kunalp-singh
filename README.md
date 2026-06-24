@@ -55,7 +55,6 @@ Currently focused on agentic AI, RAG pipelines, and ML deployment.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kunalp-singh&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalp-singh&layout=compact&theme=default&hide_border=true" />
 </div>
 
