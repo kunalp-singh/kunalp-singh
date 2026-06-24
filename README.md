@@ -3,8 +3,8 @@
   <p>AI/ML Engineer · CS Undergrad at VIT Bhopal · Graduating 2027</p>
   <p>
     <a href="mailto:kunalps6266@gmail.com"><img src="https://img.shields.io/badge/Email-kunalps6266%40gmail.com-black?style=flat-square&logo=gmail" /></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Kunal%20Pratap%20Singh-black?style=flat-square&logo=linkedin" /></a>
-    <a href="https://dev.to/"><img src="https://img.shields.io/badge/DEV.to-Articles-black?style=flat-square&logo=devdotto" /></a>
+    <a href="www.linkedin.com/in/kunalp-singh"><img src="https://img.shields.io/badge/LinkedIn-Kunal%20Pratap%20Singh-black?style=flat-square&logo=linkedin" /></a>
+    <a href="https://dev.to/kunal_pratapsingh_50fdc8"><img src="https://img.shields.io/badge/DEV.to-Articles-black?style=flat-square&logo=devdotto" /></a>
   </p>
 </div>
 
@@ -55,8 +55,8 @@ Currently focused on agentic AI, RAG pipelines, and ML deployment.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kunalp-singh&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalp-singh&layout=compact&theme=default&hide_border=true" />
 </div>
 
 ---
